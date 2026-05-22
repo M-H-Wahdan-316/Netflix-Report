@@ -1,5 +1,6 @@
 # Netflix-Report
-A report made to analyze the users interests on Netflix  
+This project is an interactive Power BI dashboard built using a Netflix movies dataset.
+The dashboard provides insights into movie releases, ratings, genres, popularity, and audience engagement across different years.
 
 <img width="1436" height="803" alt="Screenshot 2026-05-21 202011" src="https://github.com/user-attachments/assets/92ae0f90-b5c0-48c4-bc1a-b2349502a376" />
 
